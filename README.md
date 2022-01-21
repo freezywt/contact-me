@@ -3,18 +3,10 @@
 
 A contact-me form, using mustache and nodejs, for test my know of nodejs and mustache.
 
-
-<br />
-
-<br />
-
-
 ### install :
 
 
 ``` npm install ```
-
----
 
 ### configure :
 
